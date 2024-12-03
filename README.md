@@ -1,1 +1,1 @@
-# fso-course-info
+# fso-courseinfo
